@@ -1,4 +1,4 @@
-# M2-PIXEL-PALETTE
+# Pixel-palette
 
 The purpose of this individual project is to color an image with very precise rules with a challenge on the optimization/complexity and understandability of the code, divided into simple and explicit functions.
 
